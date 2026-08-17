@@ -1,47 +1,57 @@
- # 📊 Power BI Sales Dashboard
+ 📊 Maharashtra Engineering Admissions Dashboard
 
-## 📌 Project Overview
+📌 Project Overview
 
-This project is an interactive Power BI Sales Dashboard designed to analyze sales data and generate meaningful business insights. The dashboard uses data cleaning, transformation, DAX calculations, KPIs, and interactive visualizations.
+This project is an interactive Power BI Dashboard developed to analyze Maharashtra Engineering Admission data. The dashboard transforms raw admission data into meaningful visual insights using data cleaning, Power Query, DAX calculations, KPIs, and interactive visualizations.
 
-## 🛠️ Tools & Technologies
+🎯 Objective
+
+The main objective of this project is to analyze engineering admission data and provide an easy-to-understand dashboard for identifying trends, patterns, college-wise information, branch-wise analysis, and admission-related insights.
+
+🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 - Data Visualization
+- Business Intelligence
 
-## 📈 Key Features
+📈 Key Features
 
-- Interactive Sales Dashboard
-- KPI Analysis
-- Sales & Profit Analysis
-- Category-wise Analysis
-- Regional Analysis
-- Interactive Slicers & Filters
-- Data Cleaning & Transformation
-- DAX-based Calculations
+- 📊 Interactive Power BI Dashboard
+- 🎓 Engineering Admission Analysis
+- 🏫 College-wise Analysis
+- 📚 Branch-wise Analysis
+- 📍 Location/Region-wise Analysis
+- 📌 KPI Cards
+- 🔎 Interactive Slicers and Filters
+- 🧹 Data Cleaning and Transformation
+- 🧮 DAX-based Calculations
+- 📈 Interactive Charts and Visualizations
 
-## 🎯 Objective
+📂 Project Files
 
-The objective of this project is to transform raw data into meaningful visual insights and support data-driven business decision making.
+- "pp4242.pbix" – Power BI Dashboard file
+- "Maharashtra_Engineering_Admissions_Competition_Dataset (2).xlsx" – Dataset
+- "Screenshot 2026-08-17 214106.png" – Dashboard Preview
 
-## 📷 Dashboard Preview
+📷 Dashboard Preview
 
-![Power BI Dashboard](Screenshot%202026-08-17%20214106.png)
+"Power BI Dashboard" (Screenshot%202026-08-17%20214106.png)
 
-## 📂 Project Files
-
-- `pp4242.pbix` – Power BI Dashboard
-- `Maharashtra_Engineering_Admissions_Competition_Dataset (2).xlsx` – Dataset
-- `Screenshot 2026-08-17 214106.png` – Dashboard Preview
-
-## 💡 Skills Demonstrated
+💡 Skills Demonstrated
 
 - Data Analysis
+- Data Cleaning
 - Data Visualization
 - Power BI
-- DAX
 - Power Query
+- DAX
+- KPI Development
 - Business Intelligence
+- Dashboard Development
+
+🚀 Conclusion
+
+This project demonstrates how Power BI can be used to convert raw engineering admission data into an interactive and informative dashboard, helping users understand admission patterns and make data-driven decisions.
